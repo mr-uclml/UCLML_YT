@@ -1,1 +1,1 @@
-server_link
+https://invidious.flokinet.to/
